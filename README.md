@@ -68,10 +68,6 @@ Key Insights
           Evaluates salary distribution among employees.
           Tracks employee retention and turnover trends.
           Supports HR professionals in workforce planning and strategic decision-making.
-
-6. Screenshot / Demos
-show what the dashboard look like.
-Example:
           
 Business Impact
           Enables HR teams to monitor employee turnover effectively.
@@ -79,3 +75,8 @@ Business Impact
 Helps identify high-risk attrition groups.
 Supports employee retention strategies.
 Provides interactive reports for faster business decision-making.
+
+6. Screenshot / Demos
+show what the dashboard look like.
+Example: 
+
