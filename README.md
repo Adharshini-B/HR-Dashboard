@@ -77,6 +77,6 @@ Supports employee retention strategies.
 Provides interactive reports for faster business decision-making.
 
 6. Screenshot / Demos
-show what the dashboard look like.
-Example: 
+show what the dashboard look like:- ![A1 t text](https://github.com/Adharshini-B/HR-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png).
+Example: ![Dashboard preview] (https://github.com/Adharshini-B/HR-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png).
 
